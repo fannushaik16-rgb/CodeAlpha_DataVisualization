@@ -1,2 +1,27 @@
-# CodeAlpha_DataVisualization
-Data Visualization on Titanic Dataset using Python, Pandas, Matplotlib and Seaborn. Part of CodeAlpha Data Analytics Internship.
+# Data Visualization — Titanic Dataset 🚢
+
+## Project Overview
+This project is part of my Data Analytics Internship at CodeAlpha.
+I performed Data Visualization on the Titanic dataset using Python.
+
+## Tools Used
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Charts Created
+- Chart 1: Survival Count
+- Chart 2: Survival by Gender
+- Chart 3: Age Distribution
+- Chart 4: Fare by Passenger Class
+- Chart 5: Correlation Heatmap
+
+## Key Insights
+- Females had higher survival rate than males
+- 1st class passengers paid higher fare
+- Most passengers were aged between 20 to 40 years
+
+## Internship
+CodeAlpha Data Analytics Internship
+www.codealpha.tech
